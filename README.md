@@ -1,20 +1,23 @@
 # Pov-Record by Orange
 
-## now updated to x64 arcitecture and latest tf2 sdk!
+> [!NOTE]
+> Now open source and updated. With hope that TF2 developers sign it again. :bowing_man:
+> 
+
+## Updated to x64 arcitecture and latest tf2 sdk :tada:
 
 [Download lastest release](https://github.com/olegKoshmeliuk/Pov-Record/releases) and run TF2 with `-insecure` flag to test it
-
-Original plugin from September 2009
 
 P-REC is a TF2 plugin for Windows operating systems created by Ukraine Orange that records demos, takes screenshots and logs your killstreaks automatically.
 
 The original guide can be found [here](https://etf2l.org/p-rec/)
 
 
-# INFO
-Pov-Record  2.0.5
 
-E-mail:busy.orange@gmail.com
+# INFO
+Pov-Record  2.1.0
+
+E-mail:oleg.koshmeliuk@gmail.com
 
 Client plugin for TF2 which starts recording PoV demos when tournament mode starts (both team set Ready flag) and stops 
 recording when game ends (support user filename format see PREC.cfg ). Also it can save time of your kill streaks and set bookmarks to any moment in game. Time of streaks 
